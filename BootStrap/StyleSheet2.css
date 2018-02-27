@@ -1,0 +1,20 @@
+﻿.btn-danger{
+    background-color:aquamarine;
+}
+
+a.navbar-brand{
+    color:blueviolet;
+    font-family:cursive;
+    font-weight:bolder;
+}
+
+a {
+    color:chocolate;
+    font-family: cursive;
+    font-weight: bolder;
+}
+h2{
+    font-family:cursive;
+    font-weight:bolder;
+    color:blueviolet;
+}

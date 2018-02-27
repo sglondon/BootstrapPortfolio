@@ -78,8 +78,18 @@ h3 {
 p.me {
     
     margin-top: 0;
-    justify-content: flex-start;
-    flex-direction: row;
+    text-align:center;
     color: darkblue;
     font-family: cursive;
+}
+p {
+    text-align: left;
+    color: darkblue;
+    font-family: cursive;
+}
+a#github-link {
+    
+    font-family: cursive;
+    font-size: large;
+    color: darkblue;
 }

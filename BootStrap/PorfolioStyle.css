@@ -93,3 +93,13 @@ a#github-link {
     font-size: large;
     color: darkblue;
 }
+#float {
+    
+    float: right;
+}
+#float-left{
+    float: left;
+}
+h3#vp{
+    text-align:right;
+}

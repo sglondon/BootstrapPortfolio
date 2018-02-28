@@ -67,6 +67,14 @@ a{
     color:white;
     margin-left:10px;
 }
+h1 {
+    text-align: center;
+    font-family: cursive;
+    color: darkblue;
+    
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
 h3 {
     text-align:center;
     font-family: cursive;
@@ -93,25 +101,10 @@ a#github-link {
     font-size: large;
     color: darkblue;
 }
-#float {
-    
-    float: right;
-}
-#float-left{
-    float: left;
-}
-h3#vp{
-    text-align:right;
-}
-div.card-group div.card-body h4.card-title{
-    text-align:center;
-    font-family:cursive;
-    color:darkblue;
 
-}
-h4.Tuscany.Villa{
-    color:darkblue;
-}
 h2 {
     color: darkblue;
+}
+.div.col-5{
+    align-items:center;
 }

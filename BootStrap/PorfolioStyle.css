@@ -103,3 +103,15 @@ a#github-link {
 h3#vp{
     text-align:right;
 }
+div.card-group div.card-body h4.card-title{
+    text-align:center;
+    font-family:cursive;
+    color:darkblue;
+
+}
+h4.Tuscany.Villa{
+    color:darkblue;
+}
+h2 {
+    color: darkblue;
+}
